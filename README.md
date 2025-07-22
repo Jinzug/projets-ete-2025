@@ -1,12 +1,12 @@
-# Projets d'été 2025
+# Summer 2025 projects
 
-Bienvenue !
+Welcome !
 
-Je suis Jean Gandia, futur étudiant en L1 d'informatique à l'UCA.
-Ce repo contient des entrainements, scripts et projets personnels durant l'été 2025 précédent ma rentrée.
+I am Jean Gandia, neer L1 informatic student at Université Côte d'Azur.
+This repository contain trainings, scripts and personal projects during 2025 summer before entering university.
 
-## Dossiers
+## Folders
 
 ---
 
-Objectif : Me préparer à fond pour intégrer un Master cybersécurité après ma licence.
+Objective : Train myself as much as I can to intergrate a Cybersecurity Master after my licence.
