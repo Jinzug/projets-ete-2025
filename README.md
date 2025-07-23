@@ -7,6 +7,8 @@ This repository contain trainings, scripts and personal projects during 2025 sum
 
 ## Folders
 
+- password-generator ---> A little personnalized password generator project made by myself in Python
+
 ---
 
 Objective : Train myself as much as I can to intergrate a Cybersecurity Master after my licence.
