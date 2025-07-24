@@ -92,3 +92,6 @@ def choice():
         
     #Return the choices of the user
     return choice_length, choice_majs, choice_numbers, choice_symbols
+
+
+generate_passwrd()
