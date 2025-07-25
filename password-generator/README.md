@@ -10,6 +10,4 @@ A little Python programm to generate strong and personnalisables passwords.
 
 ## Utilisation
 
-generate_passwrd() --> Use it to generate your personalisable password by awnsering some questions.
-
-choice() --> Use it only to awnser questions without making the password.
+generate_passwrd() --> Generate your personalisable password by awnsering some questions.
