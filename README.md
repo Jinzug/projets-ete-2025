@@ -9,7 +9,8 @@ This repository contain trainings, scripts and personal projects during 2025 sum
 
 ## 📁 Folders
 
-- 🔒 password-generator ---> A little personnalized password generator project made by myself in Python
+- 🔒 [password-generator](https://github.com/Jinzug/summer-projects-2025/tree/main/password-generator) ---> A little personnalized password generator project made by myself in Python
+- 🎮 [number-guess](https://github.com/Jinzug/summer-projects-2025/tree/main/number-guess) ---> A little game where a random number is picked and the User needs to find the right one, made by myself in Python
 
 ---
 
